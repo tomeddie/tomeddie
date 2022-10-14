@@ -4,7 +4,7 @@ Former dotnet junkie that has found myself in Ruby/Rails
 
 ## Currently
 
-I'm currently working at [AppFolio](https://www.appfolio.com/) in Ruby/Rails and React/Typescript
+I'm currently engineering at [AppFolio](https://www.appfolio.com/) in Ruby/Rails and React/Typescript, and building the future of Property Management software.  I enjoy Domain Driven Design, micro-services, AWS environments, K8s, and those a-ha moments when creating new things.
 
 ## Knowledge areas
 
