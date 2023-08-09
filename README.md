@@ -37,8 +37,7 @@ I'm currently engineering at [AppFolio](https://www.appfolio.com/) in Ruby/Rails
 
 ## Other interests
 
-* I'm learning the ukulele 🎸
+* Learning stringed instruments 🎸
 * Ultra trail running 🏃‍♀️ 
-* Bike commuting and errands via bike 🚲
-* 
+* Active transport 🚲
 
