@@ -1,6 +1,6 @@
 # Hi, I'm Tom Whaley
 
-Senior Software Engineer at [AppFolio](https://www.appfolio.com), where I work in the Accounting domain building software that property managers rely on to run their businesses. I've spent the last several years going deep on event-driven architecture, full-stack feature delivery, and — more recently — figuring out how AI tooling can make engineering teams meaningfully faster.
+Senior Software Engineer at [AppFolio](https://www.appfolio.com), where I work in the Accounting Domain building software that property managers rely on to run their businesses. I've spent the last several years going deep on event-driven architecture, full-stack feature delivery, and — more recently — figuring out how AI tooling can make engineering teams meaningfully faster.
 
 I care about building things that last: well-designed systems, clear documentation, and teams that understand the *why* behind the code.
 
