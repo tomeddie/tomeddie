@@ -58,4 +58,4 @@ I've been heads-down on AI-assisted development over the last year — not just 
 
 ## Outside of work
 
-Learning stringed instruments 🎸 · Ultra trail running 🏃 · Active transport 🚲
+Learning stringed instruments 🎸 · Trail running 🏃 · Active transport 🚲
