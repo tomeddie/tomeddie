@@ -10,7 +10,7 @@ I care about building things that last: well-designed systems, clear documentati
 
 ## 🏗️ What I'm working on
 
-- **Accounting Performer jobs**: Working on the Financial Close job
+- **Financial Close (Accounting Performer jobs)**: An accounting AI agent that helps accountants and CFOs in AppFolio Property Manager automate the month-end close process
 - **AI adoption across engineering**: As one of AppFolio's AI Champions, I build the tooling and run the training that helps engineers put AI agents to real use
 
 ---
@@ -18,7 +18,7 @@ I care about building things that last: well-designed systems, clear documentati
 ## 📦 Recent work
 
 - **AccountingSync / Procore Integration**: Greenfield integration connecting AppFolio to Procore's construction management platform. Designed the message queue pipeline from scratch: queue infrastructure, API endpoints, vendor matching, budget code imports, health check monitoring, and runbook documentation
-- **ADP and Payroll Integrations**
+- **ADP / Payroll Integration**: Lets AppFolio Property Manager customers pull payroll records from ADP directly into their corporate books
 
 ---
 
