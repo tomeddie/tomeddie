@@ -1,6 +1,8 @@
 # Hi, I'm Tom Whaley
 
-Senior Software Engineer at [AppFolio](https://www.appfolio.com), where I work in the Accounting Domain building software that property managers rely on to run their businesses. I've spent the last several years going deep on event-driven architecture, full-stack feature delivery, and — more recently — figuring out how AI tooling can make engineering teams meaningfully faster.
+Senior Software Engineer at [AppFolio](https://www.appfolio.com), building software that property managers rely on to run their businesses. My home base is the Accounting Domain, but I'm often loaned out to hard cross-team problems, the kind that need someone to dig in, untangle the system, and get it moving again.
+
+I've spent the last several years going deep on event-driven architecture and full-stack feature delivery. More recently I've been figuring out how AI tooling can make engineering teams meaningfully faster, and helping the rest of the org get there too.
 
 I care about building things that last: well-designed systems, clear documentation, and teams that understand the *why* behind the code.
 
@@ -8,19 +10,32 @@ I care about building things that last: well-designed systems, clear documentati
 
 ## 🏗️ What I'm working on
 
-- **AccountingSync / Procore Integration** — Greenfield integration connecting AppFolio to Procore's construction management platform. Designed the message queue pipeline from scratch: queue infrastructure, API endpoints, vendor matching, budget code imports, health check monitoring, and runbook documentation
-- **AI tooling for engineers** — Built a Claude Code plugin marketplace with version management as part of AppFolio's AI Champions working group. Wrote Claude agents to help engineers categorize and tackle a large-scale accounting refactor. Co-presented *Intro to AI Agents for Software Development* to the engineering org
+- **Accounting Performer jobs**: Working on the Financial Close job
+- **AI adoption across engineering**: As one of AppFolio's AI Champions, I build the tooling and run the training that helps engineers put AI agents to real use
+
+---
+
+## 📦 Recent work
+
+- **AccountingSync / Procore Integration**: Greenfield integration connecting AppFolio to Procore's construction management platform. Designed the message queue pipeline from scratch: queue infrastructure, API endpoints, vendor matching, budget code imports, health check monitoring, and runbook documentation
+- **ADP and Payroll Integrations**
 
 ---
 
 ## 🤖 AI tooling
 
-I've been heads-down on AI-assisted development over the last year — not just using it, but building infrastructure around it:
+I've been heads-down on AI-assisted development over the last year. Not just using it, but building the infrastructure and habits around it:
 
-- Built and maintain **ai-dev-tools**, a plugin marketplace for Claude Code with version management, installation guidance, and workflow documentation
-- Wrote **production AI agents** that classify refactor complexity across a large legacy codebase, helping engineers prioritize migration work
+- Built and maintain **ai-dev-tools**, a Claude Code plugin marketplace with version management, installation guidance, and workflow documentation, now adopted company-wide
+- Co-created and co-teach AppFolio's **AI adoption class** for engineers
 - Ran hands-on help desks during hack days to get other engineers up and running with AI agents
-- Contributor to AppFolio's internal AI working group
+
+---
+
+## 🤝 Beyond the code
+
+- **Bar Raiser** in AppFolio's technical hiring process
+- Cross-team problem-solver: I like the messy, ambiguous problems that don't belong neatly to any one team
 
 ---
 
